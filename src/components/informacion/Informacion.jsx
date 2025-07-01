@@ -6,15 +6,6 @@ import avatar from "../images/isabella-avatar.png";
 
 // Importa todas las imágenes locales de tus proyectos
 
-import govisa from "../images/govisa.png";
-import gov2isa from "../images/gov2isa.png";
-import resilenciaisa from "../images/resilenciaisa.png";
-import fruitdietisa from "../images/fruitdietisa.png";
-import moneyWalletisa from "../images/money-walletisa.png";
-import langostino from "../images/granlangostinoisa.png";
-import eimas from "../images/eimasisa.png";
-import xcala from "../images/xcala.png";
-
 // --- DATOS PARA RENDERIZAR DINÁMICAMENTE ---
 
 const testimonialsData = [
