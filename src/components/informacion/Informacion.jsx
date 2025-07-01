@@ -51,14 +51,14 @@ const projectsData = [
   },
   {
     category: "empresarial",
-    img: govisa, // CORREGIDO
+    img: "/images/govisa.png",
     title: "Home Portal ANM",
     desc: "Adobe XD",
     link: "https://xd.adobe.com/view/ee2bc3ff-b986-4600-a492-0d95b8a66504-bb78/",
   },
   {
     category: "empresarial",
-    img: gov2isa, // CORREGIDO
+    img: "/images/gov2isa.png",
     title: "Portal Micrositios",
     desc: "Adobe XD",
     link: "https://xd.adobe.com/view/8de210c3-9fb1-4f7d-88c2-de4602f35b8a-d8b1/",
@@ -67,21 +67,21 @@ const projectsData = [
   // Proyectos Personales
   {
     category: "personal",
-    img: resilenciaisa, // CORREGIDO
+    img: "/images/resilenciaisa.png",
     title: "Resilencia de Irina (Videojuego)",
     desc: "Figma - Prototipo",
     link: "https://www.figma.com/proto/Zeg9llmiAsLCdzVUKCYY3I/Resilencia-de-Irina?node-id=0-1&t=6YWU1IHOtVZcxMpm-1",
   },
   {
     category: "personal",
-    img: fruitdietisa, // CORREGIDO
+    img: "/images/fruitdietisa.png",
     title: "FruitDiet (Interfaz Videojuego)",
     desc: "Figma - Prototipo",
     link: "https://www.figma.com/proto/H7yfUmuPd3MmriWzPhDG4S/FruitDiet-Victor?node-id=0-1&t=OjzD0zz96YlTj6xn-1",
   },
   {
     category: "personal",
-    img: moneyWalletisa, // CORREGIDO
+    img: "/images/money-walletisa.png",
     title: "Money Wallet (App de Ahorro)",
     desc: "Figma - Prototipo",
     link: "https://www.figma.com/proto/IuiXKtrL558zUPXEoFnsBf/HCI-money-wallet?node-id=0-1&p=f&t=pweqRRpeecWfdhEh-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=209%3A53",
@@ -89,21 +89,21 @@ const projectsData = [
   // Proyectos Freelance (estos ya funcionaban)
   {
     category: "freelance",
-    img: langostino,
+    img: "/images/granlangostinoisa.png",
     title: "Gran Langostino (Plantillas)",
     desc: "Figma",
     link: "https://www.figma.com/proto/KTY5hGH8glo2e8zJPECPOs/Plantillas?node-id=86-51&t=UA8AwMu2TVD3vq2K-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=86%3A51",
   },
   {
     category: "freelance",
-    img: eimas,
+    img: "/images/eimasisa.png",
     title: "EIMAS (Plataforma Educativa)",
     desc: "Adobe XD - Prototipo",
     link: "https://xd.adobe.com/view/b59a5380-d963-4806-82e4-343de61323d0-e0c9/",
   },
   {
     category: "freelance",
-    img: xcala,
+    img: "/images/xcala.png",
     title: "Xcala (Interfaz Web App)",
     desc: "Figma - Prototipo",
     link: "https://www.figma.com/proto/oNQi5rsGK8iWEDU2fE2T5O/Xcala?node-id=0-1&t=6tZfgPpxoK5rUWO2-1",
