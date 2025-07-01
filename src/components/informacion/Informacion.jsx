@@ -5,7 +5,7 @@ import "./Informacion.css";
 import avatar from "../images/isabella-avatar.png";
 
 // Importa todas las imágenes locales de tus proyectos
-import adSecurityisa from "../images/adSecurityisa.png";
+import adSecurityisa from "../images/adsecurityisa.png";
 import govisa from "../images/govisa.png";
 import gov2isa from "../images/gov2isa.png";
 import resilenciaisa from "../images/resilenciaisa.png";
