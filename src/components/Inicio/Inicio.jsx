@@ -2,7 +2,7 @@ import React, { useRef, useLayoutEffect } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import "./Inicio.css";
-import bannerprincipal from "../images/isabella-correa-banner-Photoroom.png";
+
 import Informacion from "../informacion/Informacion";
 import Koifish from "../Koifish/Koifish";
 
@@ -65,7 +65,10 @@ const Inicio = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src={bannerprincipal} alt="Banner de Isabella Correa" />
+          <img
+            src="/images/isabella-correa-banner-Photoroom.png"
+            alt="Banner de Isabella Correa"
+          />
         </div>
       </div>
       <Informacion />
