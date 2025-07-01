@@ -5,7 +5,7 @@ import "./Informacion.css";
 import avatar from "../images/isabella-avatar.png";
 
 // Importa todas las imágenes locales de tus proyectos
-import adsecurityisa from "../images/adsecurityisa.png";
+
 import govisa from "../images/govisa.png";
 import gov2isa from "../images/gov2isa.png";
 import resilenciaisa from "../images/resilenciaisa.png";
@@ -44,7 +44,7 @@ const projectsData = [
   // Proyectos Empresariales
   {
     category: "empresarial",
-    img: adsecurityisa, // CORREGIDO
+    img: "/images/adsecurityisa.png",
     title: "Manual de Marca AdSecurity",
     desc: "Adobe XD",
     link: "https://xd.adobe.com/view/238d33cb-771b-45ac-8690-dedf8367a427-76de/",
