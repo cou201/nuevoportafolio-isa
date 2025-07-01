@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./Informacion.css";
 
 // --- IMPORTACIONES DE IMÁGENES ---
-import avatar from "../images/isabella-avatar.png";
 
 // Importa todas las imágenes locales de tus proyectos
 
@@ -143,7 +142,11 @@ const Informacion = () => {
       <aside className={`sidebar ${sidebarOpen ? "active" : ""}`}>
         <div className="sidebar-info">
           <figure className="avatar-box">
-            <img src={avatar} alt="Isabella Correa" width="80" />
+            <img
+              src="/images/isabella-avatar.png"
+              alt="Isabella Correa"
+              width="80"
+            />
           </figure>
           <div className="info-content">
             <h1 className="name" title="Isabella Correa Costain">
